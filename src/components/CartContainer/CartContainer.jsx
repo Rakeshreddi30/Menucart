@@ -4,7 +4,7 @@ import TotalItem from './TotalItem'
 
 
 const Items = [
-    {id:1, label:"Noodles", quantity:1, price:50},
+    {id:1, label:"Egg rice", quantity:1, price:50},
     {id:2, label:"Biryani", quantity:1, price:110},
     {id:3, label:"FriedRice", quantity:1, price:60},
    ];
